@@ -47,6 +47,7 @@
 
 大带宽，大流量，亲测速度不错
 
+#### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) *全场夏季清凉优惠码： （年费套餐优惠码8折：pig80，其他套餐85折优惠码：pig85）*
 
 
 ## 四、飞驰云（高性价比新机场） [官方网站](http://jj53.xyz/auth/register?code=uy1Y)
