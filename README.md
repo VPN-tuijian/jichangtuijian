@@ -50,18 +50,9 @@
 #### ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) *全场夏季清凉优惠码： （年费套餐优惠码8折：pig80，其他套餐85折优惠码：pig85）*
 
 
-## 四、飞驰云（高性价比新机场） [官方网站](http://jj53.xyz/auth/register?code=uy1Y)
-
-节点地区：香港、日本、新加坡、美国、台湾，韩国，马来西亚
-
-最低套餐：10元/月，50G
-
-线路：流媒体解锁
-
-其他：高性价比机场，新机场人少，节点负载轻
 
 
-## 五、苏打云（不限时备用首选） [官方网站](https://b.sudayun.top/#/register?code=QlGMppj1)
+## 四、苏打云（不限时备用首选） [官方网站](https://b.sudayun.top/#/register?code=QlGMppj1)
 
 节点地区：香港、日本、新加坡、美国、台湾
 
