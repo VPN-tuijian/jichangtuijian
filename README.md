@@ -10,7 +10,7 @@
 
 
 
-## 一、疾风云（高性价比新机场） [官方网站](https://jf16.net/auth/register?code=zm1Z)
+## 一、疾风云（高性价比新机场） [官方网站](https://jif44.net/auth/register?code=zm1Z)
 
 节点地区：香港、日本、新加坡、美国、台湾，韩国，马来西亚
 
