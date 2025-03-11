@@ -40,7 +40,7 @@
 
 
 
-## 三、飞天猪（大带宽高速机场） [官方网站](https://ftzcc01.fliggycloud.pro/#/register?code=S9jZqY2O)
+## 三、飞天猪（大带宽高速机场） [官方网站](https://fliggycloud.cc/#/register?code=S9jZqY2O)
 
 节点地区：香港、日本、新加坡、美国、台湾
 
