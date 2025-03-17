@@ -17,7 +17,7 @@
 
 ## 2025最新机场梯子推荐
 
-### 一、[疾风云（高性价比机场） 官方网站](https://cutt.ly/lru7uox6)
+### 一、[疾风云（高性价比机场） 官方网站](https://jif44.net/auth/register?code=zm1Z)
 
 JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场团队旗下的分站，IPLC高速专线，节点丰富，Trojan协议线路，抗封锁能力强，套餐价格合理，性价比高
 
@@ -38,7 +38,7 @@ JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场�
 ![jfcloud_Speed_Test](https://github.com/user-attachments/assets/12557c2f-2c3e-4e5b-b82c-9c1edde1e64e)
 
 
-### 二、[老猫云（8年稳定老机场） 官方网站](https://cutt.ly/AriPNffe)
+### 二、[老猫云（8年稳定老机场） 官方网站](https://laomao.biz/?path=register&code=zTjmRwqk)
 
 老猫云机场是2017年开始稳定运营的老机场，拥有自建客户端，在线客服，IEPL企业级内网专线，7天无理由退款
 
@@ -55,7 +55,7 @@ JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场�
 
 
 
-### 三、[飞天猪（大带宽高速机场） 官方网站](https://cutt.ly/lriPNXt2)
+### 三、[飞天猪（大带宽高速机场） 官方网站](https://fliggycloud.cc/#/register?code=S9jZqY2O)
 
 飞天猪机场，IEPL内网专线，线路质量高带宽大速度快，原生IP，最高速率可达到3000Mbps
 
@@ -74,7 +74,7 @@ JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场�
 
 
 
-### 四、[苏打云（不限时备用首选） 官方网站](https://cutt.ly/priPMiF0)
+### 四、[苏打云（不限时备用首选） 官方网站](https://b.sudayun.top/#/register?code=QlGMppj1)
 苏打云是BGP中继线路机场，所有套餐都是永不过期的流量计费套餐，性价比超高推荐轻度用户使用
 
 [![image](https://github.com/user-attachments/assets/61a7a5b3-c8bf-404f-9135-665b8dd1b75f)](https://b.sudayun.top/#/register?code=QlGMppj1)
