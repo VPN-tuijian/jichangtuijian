@@ -1,4 +1,3 @@
-![jfspeedtest](https://github.com/user-attachments/assets/a0e78b83-2ca2-4234-8d09-2e010b3fa9f7)
 # 机场和梯子推荐
 
 *更新时间[2025/03] 可以加star⭐不迷路*
