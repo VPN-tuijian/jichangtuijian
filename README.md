@@ -74,10 +74,10 @@ JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场�
 
 
 
-### 四、[苏打云（不限时备用首选） 官方网站](https://b.sudayun.top/#/register?code=QlGMppj1)
+### 四、[苏打云（不限时备用首选） 官方网站](https://a1.soda08.cc/register?code=QlGMppj1)
 苏打云是BGP中继线路机场，所有套餐都是永不过期的流量计费套餐，性价比超高推荐轻度用户使用
 
-[![image](https://github.com/user-attachments/assets/61a7a5b3-c8bf-404f-9135-665b8dd1b75f)](https://b.sudayun.top/#/register?code=QlGMppj1)
+[![image](https://github.com/user-attachments/assets/61a7a5b3-c8bf-404f-9135-665b8dd1b75f)](https://a1.soda08.cc/register?code=QlGMppj1)
 
 | 套餐 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
 | --- | --- | --- | --- | --- |
