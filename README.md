@@ -35,7 +35,7 @@ JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场�
 | Vip5 | 一个月 | 98.99元 | 1200G | 10个设备 |
 
 #### 疾风云机场测速
-![jfcloud_Speed_Test](https://github.com/user-attachments/assets/12557c2f-2c3e-4e5b-b82c-9c1edde1e64e)
+![jfcloud_Speed_Test](https://github.com/user-attachments/assets/3883bb46-48fc-4440-bc33-705e56293465)
 
 
 ### 二、[老猫云（8年稳定老机场） 官方网站](https://laomao.biz/?path=register&code=zTjmRwqk)
@@ -51,8 +51,7 @@ JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场�
 | Vip4 | 三个月 | 150元 | 500G |  |
 
 #### 老猫云机场测速
-![laomao_speed_test](https://github.com/user-attachments/assets/3f1e2699-03f9-4485-bd54-6275cdba8591)
-
+![laomao_speed_test](https://github.com/user-attachments/assets/c935eec4-9b3d-4b29-8f6e-92718104f008)
 
 
 ### 三、[飞天猪（大带宽高速机场） 官方网站](https://fliggycloud.cc/#/register?code=S9jZqY2O)
@@ -70,7 +69,7 @@ JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场�
 
 
 #### 飞天猪机场测速
-![flippypig_speed_test](https://github.com/user-attachments/assets/2d99b9d1-75b7-4e42-a781-7d172a04d9d2)
+![flippypig_speed_test](https://github.com/user-attachments/assets/00f5325a-a519-4bb4-ae3d-891b92d96a2f)
 
 
 ### 四、[优信云（稳定运行） 官方网站](https://www.youxin77.net/#/register?code=tYGQbDI3)
@@ -85,7 +84,7 @@ JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场�
 | Vip4 | 一个月 | 50元 | 1200G | 6个设备 |
 
 #### 优信云机场测速
-![youxin_speed_test](https://github.com/user-attachments/assets/f6c20594-aafc-4f84-adc2-b3be5f78f81f)
+![youxin_speed_test](https://github.com/user-attachments/assets/ac1fe458-f439-48dd-bc44-68cd15e619e0)
 
 ### 五、[椰子云（高速机场） 官方网站](https://coconut.trafficmanager.net/#/register?code=ZGBX1Rpj)
 椰子云拥有国际互联网优质入口机场，安全高速自由梯子，包括不限时套餐和月付套餐
@@ -101,7 +100,7 @@ JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场�
 
 
 #### 椰子云机场测速
-![yezi_speed_test](https://github.com/user-attachments/assets/8422dc09-334f-4747-9337-5bcce4fc86be)
+![yezi_speed_test](https://github.com/user-attachments/assets/a213010d-6839-4bb3-b7b2-4ce344898388)
 
 
 ### 六、[灯塔云（性价比机场） 官方网站](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=IS8942S1)
@@ -116,13 +115,13 @@ JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场�
 
 
 #### 灯塔云机场测速
-![dengta_speed_test](https://github.com/user-attachments/assets/8f28ba51-03b4-45ba-a78f-3287e9cf7852)
+![dengta_speed_test](https://github.com/user-attachments/assets/ef37ba6d-54e8-4e5e-8cb6-6df4bb7add5d)
 
 
 ### 七、[苏打云（不限时备用首选） 官方网站](https://a1.soda08.cc/register?code=QlGMppj1)
 苏打云是BGP中继线路机场，所有套餐都是永不过期的流量计费套餐，性价比超高推荐轻度用户使用
 
-[![image](https://github.com/user-attachments/assets/61a7a5b3-c8bf-404f-9135-665b8dd1b75f)](https://a1.soda08.cc/register?code=QlGMppj1)
+[![image](https://github.com/user-attachments/assets/4bac04ce-823a-4c5c-a7b1-df5a99c04ed8)](https://a1.soda08.cc/register?code=QlGMppj1)
 
 | 套餐 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
 | --- | --- | --- | --- | --- |
@@ -131,7 +130,6 @@ JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场�
 | Vip2 | 永久 | 200元 | 1500G | 5个设备 |
 
 #### 苏打云机场测速
-![suda_speed_test](https://github.com/user-attachments/assets/6da99c1e-6afe-4ae8-9a78-12e7fffb82f6)
-
+![suda_speed_test](https://github.com/user-attachments/assets/373631ef-1c23-405f-b97e-5fca0b867a3d)
 
 
