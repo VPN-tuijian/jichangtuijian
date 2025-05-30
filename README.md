@@ -14,7 +14,7 @@
 - Windows：Clash for windows
 - macOS：ClashX
 - Android：Clash for Android
-- iOS：【收费】Shadowrocket（小火箭），【免费】Hiddify（使用美区appleId下载）
+- iOS：【收费】Shadowrocket（小火箭），【免费】Hiddify（使用美区appleId下载） [购买美区apple id-Shdowrcoket(小火箭)成品账号](https://xiaohuojian8.com/aff/5339.html)
 
 ## 2025最新机场梯子推荐
 
