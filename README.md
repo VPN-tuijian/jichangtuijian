@@ -18,10 +18,23 @@
 
 ## 2025最新机场梯子推荐
 
-### 一、[疾风云（高性价比机场） 官方网站](https://jif44.net/auth/register?code=zm1Z)
+### 一、[杨帆云（高性价比机场） 官方网站](https://yftg1.com/register?code=rbk2RS2S)
+杨帆云是使用隧道中转优化线路与IPLC国际专线，使用 V2Ray 协议，多达条优质线路节点主要集中在日本、韩国、香港、法国、台湾、美国等中国用户常用国家与地区。
+
+#### 杨帆云机场套餐
+| 套餐 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
+| --- | --- | --- | --- | --- |
+| Vip0 | 一个月 | 15.99元 | 100G | 2个设备 |
+| Vip1 | 一个月 | 29.99元 | 200G | 3个设备 |
+| Vip2 | 一个月 | 39.99元 | 400G | 4个设备 |
+| Vip3 | 一个月 | 49.99元 | 700G | 6个设备 |
+| Vip4 | 一个月 | 88.99元 | 1200G | 6个设备 |
+
+<img width="3893" height="3250" alt="yangfanyun-SpeedTest" src="https://github.com/user-attachments/assets/c995e168-8ab8-4cd6-a32f-fbd296b4676e" />
+
+### 一、[疾风云（性价比机场） 官方网站](https://jif44.net/auth/register?code=zm1Z)
 
 JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场团队旗下的分站，IPLC高速专线，节点丰富，Trojan协议线路，抗封锁能力强，套餐价格合理，性价比高
-
 
 [![image](https://github.com/user-attachments/assets/bcf807e9-44bd-4825-9f2c-0fd6ae7e1324)](https://jif44.net/auth/register?code=zm1Z)
 
