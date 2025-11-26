@@ -100,24 +100,9 @@ JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场�
 #### 优信云机场测速
 ![youxin_speed_test](https://github.com/user-attachments/assets/ac1fe458-f439-48dd-bc44-68cd15e619e0)
 
-### 六、[椰子云（高速机场） 官方网站](https://coconut.trafficmanager.net/#/register?code=ZGBX1Rpj)
-椰子云拥有国际互联网优质入口机场，安全高速自由梯子，包括不限时套餐和月付套餐
-
-| 套餐 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
-| --- | --- | --- | --- | --- |
-| Vip0 | 一个月 | 15元 | 180G | 4个设备 |
-| Vip1 | 一个月 | 25元 | 360G | 6个设备 |
-| 高速专线 | 一个月 | 35元 | 180G | 6个设备 |
-| Vip3 | 永久 | 79元 | 500G | 不限设备 |
-| Vip4 | 永久 | 109元 | 1000G | 6个设备 |
-| 终极套餐 | 永久 | 628 | 无限 | 2个设备 |
 
 
-#### 椰子云机场测速
-![yezi_speed_test](https://github.com/user-attachments/assets/a213010d-6839-4bb3-b7b2-4ce344898388)
-
-
-### 七、[灯塔云（性价比机场） 官方网站](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=IS8942S1)
+### 六、[灯塔云（性价比机场） 官方网站](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=IS8942S1)
 灯塔云机场使用IEPL专线，高速线路数量48+，速度峰值1000MBps，官方全平台客户端
 
 | 套餐 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
