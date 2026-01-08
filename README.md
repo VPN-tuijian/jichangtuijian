@@ -36,7 +36,7 @@
 
 JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场团队旗下的分站，IPLC高速专线，节点丰富，Trojan协议线路，抗封锁能力强，套餐价格合理，性价比高
 
-[![image](https://github.com/user-attachments/assets/bcf807e9-44bd-4825-9f2c-0fd6ae7e1324)](https://jif44.net/auth/register?code=zm1Z)
+[![image](https://github.com/user-attachments/assets/bcf807e9-44bd-4825-9f2c-0fd6ae7e1324)](https://jif637.net?code=zm1Z)
 
 #### 疾风云机场套餐
 | 套餐 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
