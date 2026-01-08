@@ -32,7 +32,7 @@
 
 <img width="3893" height="3250" alt="yangfanyun-SpeedTest" src="https://github.com/user-attachments/assets/c995e168-8ab8-4cd6-a32f-fbd296b4676e" />
 
-### 二、[疾风云（性价比机场） 官方网站](https://jif44.net/auth/register?code=zm1Z)
+### 二、[疾风云（性价比机场） 官方网站](https://jif637.net?code=zm1Z)
 
 JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场团队旗下的分站，IPLC高速专线，节点丰富，Trojan协议线路，抗封锁能力强，套餐价格合理，性价比高
 
