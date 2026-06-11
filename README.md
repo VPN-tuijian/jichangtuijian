@@ -18,7 +18,7 @@
 
 ## 2026最新机场梯子推荐
 
-### [边缘Nova（高性价比机场） 官方网站](https://zentrio.edgenovayun.cc/#/register?code=5AMyVGab)
+### [边缘Nova（高性价比机场） 官方网站](https://bellsteven5489.edgenovaaff.cc/#/register?code=5AMyVGab)
 边缘Nova是大厂旗下的新IEPL专线，团队都在海外，使用稳定的VLess协议，多达条优质线路节点主要集中在日本、韩国、香港、法国、台湾、美国等中国用户常用国家与地区。
 
 #### 边缘Nova套餐
