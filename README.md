@@ -116,7 +116,7 @@ JFCloud疾风云机场，海外团队稳定运营多年，是实力老牌机场�
 
 
 
-### [灯塔云（性价比机场） 官方网站](https://dengta.xn--xhq8sm16c5ls.com/#/register?code=i8oxBYbN)
+### [灯塔云（性价比机场） 官方网站](https://www.dengta.cloud/register?code=i8oxBYbN)
 灯塔云机场使用IEPL专线，高速线路数量48+，速度峰值1000MBps，官方全平台客户端
 
 | 套餐 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
