@@ -38,21 +38,21 @@
 
 | 机场 | 最低公开套餐 | 代表性流量档位 | 线路与特点 | 设备限制 |
 | --- | --- | --- | --- | --- |
-| [边缘节点 Edge](https://aff.kitdude.com/bianyuan) | ¥15/月，50GB | ¥25/月120GB；¥50/月250GB；¥200/月1TB | 全线路 IPLC、原生 IP、1 倍率、最高 2.5Gbps | 不限设备 |
-| [飞天猪](https://aff.kitdude.com/feizhu) | ¥20/月，120GB | ¥84/年每月50GB；¥120/月1TB | 原生 IP、流媒体与 AI、晚高峰不降速 | 不限设备 |
-| [光年梯](https://aff.kitdude.com/guangnian) | ¥18/月，110GB | ¥89/年每月50GB；¥130/月900GB | IPLC、原生 IP、最高 2.5Gbps | 不限客户端 |
-| [寰宇云](https://aff.kitdude.com/huanyu) | ¥18/月，150GB | ¥60/月600GB；¥158不限时1TB | 原生 IP、流媒体、晚高峰不降速 | 不限设备/客户端 |
-| [全球云](https://aff.kitdude.com/quanqiu) | ¥20/月，120GB | ¥99/年每月59GB；¥100不限时100GB | BGP 优化、独享出口、Shadowsocks | 不限设备 |
-| [大哥云](https://aff.kitdude.com/dage) | ¥19.90/月，100GB | ¥69/季每月200GB；¥199/年每月300GB | Trojan，500—1000Mbps 档位 | 未注明 |
-| [灯塔 CLOUD](https://aff.kitdude.com/dengta) | ¥69.99/季，每月80GB | ¥119.99/季每月400GB；¥650不限时1TB | 三线 IEPL、流媒体解锁 | 本人设备不限 |
-| [尔湾云](https://aff.kitdude.com/erwan) | ¥24.99/月，100GB | ¥49.99/月350GB；¥119.99/月1.2TB | 中转线路；另有美国住宅 IP 套餐 | 2—10 台 |
-| [疾风云 JFCLOUD](https://aff.kitdude.com/jifeng) | ¥24.99/月，100GB | ¥49.99/月350GB；¥119.99/月1.2TB | Clash/SSR/V2Ray、中转、部分 IPLC | 3—10 台 |
-| [扬帆云](https://aff.kitdude.com/yangfan) | ¥19.99/月，100GB | ¥49.99/月700GB；¥88.99/月1.2TB | 标准节点、部分/全部 IEPL 分档 | 2—8 台 |
-| [优信云](https://aff.kitdude.com/youxin) | ¥19.99/月，100GB | ¥49.99/月700GB；¥88.99/月1.2TB | 普通节点与 IPLC 分档 | 2—6 台；部分不限 |
-| [可可云](https://aff.kitdude.com/keke) | ¥20/月，100GB | ¥40/月300GB；¥199/年588GB总量 | IEPL、流媒体与 AI | 2—4 台 |
-| [老猫云](https://aff.kitdude.com/laomao) | ¥45/季，每月50GB | ¥40/月300GB；¥50/月500GB | IEPL、流媒体、UDP | 未注明 |
-| [BoostNet](https://aff.kitdude.com/boostnet) | ¥200/年，每月20GB | ¥49/月200GB；¥129/月1TB | 专线、流媒体与 AI、提供客户端 | 常规档 5 台 |
-| [DOVE](https://aff.kitdude.com/dove) | ¥21.99/月，100GB | ¥39.99/月300GB；¥160/月1TB | 共享/独享带宽分档，流媒体与 AI | 1—15 台 |
+| [边缘节点 Edge](https://aff.kitdude.com/bianyuan?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥15/月，50GB | ¥25/月120GB；¥50/月250GB；¥200/月1TB | 全线路 IPLC、原生 IP、1 倍率、最高 2.5Gbps | 不限设备 |
+| [飞天猪](https://aff.kitdude.com/feizhu?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥20/月，120GB | ¥84/年每月50GB；¥120/月1TB | 原生 IP、流媒体与 AI、晚高峰不降速 | 不限设备 |
+| [光年梯](https://aff.kitdude.com/guangnian?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥18/月，110GB | ¥89/年每月50GB；¥130/月900GB | IPLC、原生 IP、最高 2.5Gbps | 不限客户端 |
+| [寰宇云](https://aff.kitdude.com/huanyu?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥18/月，150GB | ¥60/月600GB；¥158不限时1TB | 原生 IP、流媒体、晚高峰不降速 | 不限设备/客户端 |
+| [全球云](https://aff.kitdude.com/quanqiu?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥20/月，120GB | ¥99/年每月59GB；¥100不限时100GB | BGP 优化、独享出口、Shadowsocks | 不限设备 |
+| [大哥云](https://aff.kitdude.com/dage?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥19.90/月，100GB | ¥69/季每月200GB；¥199/年每月300GB | Trojan，500—1000Mbps 档位 | 未注明 |
+| [灯塔 CLOUD](https://aff.kitdude.com/dengta?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥69.99/季，每月80GB | ¥119.99/季每月400GB；¥650不限时1TB | 三线 IEPL、流媒体解锁 | 本人设备不限 |
+| [尔湾云](https://aff.kitdude.com/erwan?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥24.99/月，100GB | ¥49.99/月350GB；¥119.99/月1.2TB | 中转线路；另有美国住宅 IP 套餐 | 2—10 台 |
+| [疾风云 JFCLOUD](https://aff.kitdude.com/jifeng?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥24.99/月，100GB | ¥49.99/月350GB；¥119.99/月1.2TB | Clash/SSR/V2Ray、中转、部分 IPLC | 3—10 台 |
+| [扬帆云](https://aff.kitdude.com/yangfan?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥19.99/月，100GB | ¥49.99/月700GB；¥88.99/月1.2TB | 标准节点、部分/全部 IEPL 分档 | 2—8 台 |
+| [优信云](https://aff.kitdude.com/youxin?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥19.99/月，100GB | ¥49.99/月700GB；¥88.99/月1.2TB | 普通节点与 IPLC 分档 | 2—6 台；部分不限 |
+| [可可云](https://aff.kitdude.com/keke?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥20/月，100GB | ¥40/月300GB；¥199/年588GB总量 | IEPL、流媒体与 AI | 2—4 台 |
+| [老猫云](https://aff.kitdude.com/laomao?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥45/季，每月50GB | ¥40/月300GB；¥50/月500GB | IEPL、流媒体、UDP | 未注明 |
+| [BoostNet](https://aff.kitdude.com/boostnet?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥200/年，每月20GB | ¥49/月200GB；¥129/月1TB | 专线、流媒体与 AI、提供客户端 | 常规档 5 台 |
+| [DOVE](https://aff.kitdude.com/dove?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline) | ¥21.99/月，100GB | ¥39.99/月300GB；¥160/月1TB | 共享/独享带宽分档，流媒体与 AI | 1—15 台 |
 
 ### 按预算快速比较
 
@@ -86,7 +86,7 @@
 
 ### 1. 边缘节点 Edge：低门槛 IPLC 机场候选
 
-[进入边缘节点官网](https://aff.kitdude.com/bianyuan)
+[进入边缘节点官网](https://aff.kitdude.com/bianyuan?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 边缘节点的月付门槛是本页较低的一档，¥15 可获得 50GB，采用全线路 IPLC、流量 1 倍率、原生 IP，最高 2.5Gbps，并支持不限设备。对于想先用小额月付测试线路，或需要多设备接入的人，它是值得放进候选列表的 Clash 机场之一。
 
@@ -103,7 +103,7 @@
 
 ### 2. 飞天猪：低价年付与不限设备机场
 
-[进入飞天猪官网](https://aff.kitdude.com/feizhu)
+[进入飞天猪官网](https://aff.kitdude.com/feizhu?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 飞天猪提供 ¥84/年的小流量套餐，每月 50GB；月付从 ¥20/120GB 到 ¥120/1TB，支持原生 IP、流媒体与 AI 服务，采用 1 倍流量并且不限设备。年付小流量价格突出，适合日常网页、消息和轻量视频用户拿来比较。
 
@@ -119,7 +119,7 @@
 
 ### 3. 光年梯：¥18 月付的 IPLC 机场候选
 
-[进入光年梯官网](https://aff.kitdude.com/guangnian)
+[进入光年梯官网](https://aff.kitdude.com/guangnian?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 光年梯月付 ¥18 起，提供 110GB；年付 ¥89，每月 50GB。线路采用 IPLC 和原生 IP，支持流媒体及 AI 服务，最高 2.5Gbps，并且不限客户端。它同时覆盖低价月付、小流量年付和较大月流量，套餐梯度比较直观。
 
@@ -135,7 +135,7 @@
 
 ### 4. 寰宇云：大流量与不限时流量机场
 
-[进入寰宇云官网](https://aff.kitdude.com/huanyu)
+[进入寰宇云官网](https://aff.kitdude.com/huanyu?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 寰宇云月付 ¥18 可获得 150GB，¥60/月对应 600GB；另有一次付费、不按月重置的 1TB 和 3TB 套餐。线路采用原生 IP，支持流媒体以及不限设备/客户端。对需要一份低频备用订阅的人，不限时流量比“每月用不完就清零”的套餐更容易控制浪费。
 
@@ -151,7 +151,7 @@
 
 ### 5. 全球云：Shadowsocks 与不限时流量包候选
 
-[进入全球云官网](https://aff.kitdude.com/quanqiu)
+[进入全球云官网](https://aff.kitdude.com/quanqiu?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 全球云提供月付、年付和一次性流量包，采用 BGP 线路优化、独享出口、1 倍率和 Shadowsocks，支持流媒体、AI 服务与不限设备。¥99 年付每月 59GB，适合轻量长期使用；一次性流量包则更适合作备用。
 
@@ -170,7 +170,7 @@
 
 ### 6. 大哥云：Trojan 与多档年付机场
 
-[进入大哥云官网](https://aff.kitdude.com/dage)
+[进入大哥云官网](https://aff.kitdude.com/dage?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 大哥云使用 Trojan 协议，提供 500Mbps 和 1000Mbps 档位。它既有 ¥19.90/月100GB 的月付，也有 ¥88/年每月15GB、¥199/年每月300GB和 ¥299/年每月500GB等年付档位。小流量年付与中大流量年付同时存在，选择时要特别确认自己看到的是“每月流量”而不是全年总量。
 
@@ -187,7 +187,7 @@
 
 ### 7. 灯塔 CLOUD：季度付费的 IEPL 机场
 
-[进入灯塔 CLOUD 官网](https://aff.kitdude.com/dengta)
+[进入灯塔 CLOUD 官网](https://aff.kitdude.com/dengta?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 灯塔 CLOUD 以季度套餐为主，最低 ¥69.99/季度，每月 80GB，采用三线 IEPL，支持流媒体解锁和本人设备不限，并提供从 100MBps 到 800MBps 的不同档位。它不适合只想购买一个月的人，但季度周期比直接年付更容易控制首次试用成本。
 
@@ -202,7 +202,7 @@
 
 ### 8. 尔湾云：设备数分档与住宅 IP 套餐
 
-[进入尔湾云官网](https://aff.kitdude.com/erwan)
+[进入尔湾云官网](https://aff.kitdude.com/erwan?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 尔湾云月付从 ¥24.99/100GB 到 ¥119.99/1.2TB，设备数从 2 台逐档增加到 10 台，采用中转线路，并另设美国住宅 IP 套餐。它适合明确知道设备数量、希望按档位控制预算的人。
 
@@ -218,7 +218,7 @@
 
 ### 9. 疾风云 JFCLOUD：Clash、SSR 与 V2Ray 机场
 
-[进入疾风云官网](https://aff.kitdude.com/jifeng)
+[进入疾风云官网](https://aff.kitdude.com/jifeng?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 疾风云支持 Clash、SSR 和 V2Ray，采用中转线路，并提供流媒体、部分 IPLC 等档位。月付价格、流量和设备数从 ¥24.99/100GB/3 台，逐级增加到 ¥119.99/1.2TB/10 台。对于搜索 Clash 机场推荐、且希望套餐设备数写得比较清楚的用户，这一组档位便于直接对照。
 
@@ -234,7 +234,7 @@
 
 ### 10. 扬帆云：从标准节点到全 IEPL 分档
 
-[进入扬帆云官网](https://aff.kitdude.com/yangfan)
+[进入扬帆云官网](https://aff.kitdude.com/yangfan?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 扬帆云把标准节点、部分 IEPL 和全部 IEPL 放在不同等级中。¥19.99/月提供 100GB、2 台设备；¥49.99/月提供 700GB、6 台设备和全部 IEPL；旗舰档 ¥88.99/月提供 1.2TB、8 台设备。对“线路等级”和设备数量都有明确要求的人，这种分档方式更容易筛选。
 
@@ -250,7 +250,7 @@
 
 ### 11. 优信云：多流量档与 600GB 不限时套餐
 
-[进入优信云官网](https://aff.kitdude.com/youxin)
+[进入优信云官网](https://aff.kitdude.com/youxin?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 优信云的月付结构与扬帆云接近，从 ¥19.99/100GB 到 ¥88.99/1.2TB，并按档位区分普通节点和 IPLC。另有 ¥188.88、600GB 总量的不重置套餐。想同时比较常规月付和低频备用方案，可以把这两类放在一起算总成本。
 
@@ -267,7 +267,7 @@
 
 ### 12. 可可云：套餐数量少、设备限制清楚
 
-[进入可可云官网](https://aff.kitdude.com/keke)
+[进入可可云官网](https://aff.kitdude.com/keke?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 可可云的主套餐较少：¥20/月100GB、¥40/月300GB，以及 ¥199/年588GB总量。采用 IEPL 和全球节点，支持流媒体、AI 服务、多平台使用和客服支持。套餐少的好处是比较简单，但 2—4 台设备限制比“不限设备”机场更需要提前核对。
 
@@ -281,7 +281,7 @@
 
 ### 13. 老猫云：季度小流量与 IEPL 标签
 
-[进入老猫云官网](https://aff.kitdude.com/laomao)
+[进入老猫云官网](https://aff.kitdude.com/laomao?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 老猫云从季度套餐起步：¥45/季度对应每月 50GB，¥60/季度对应每月100GB，¥90/季度对应每月200GB；另有 ¥40/月300GB和 ¥50/月500GB，支持 IEPL、Netflix/TVB/Hulu 等流媒体和 UDP。
 
@@ -297,7 +297,7 @@
 
 ### 14. BoostNet：提供多平台客户端的机场
 
-[进入 BoostNet 官网](https://aff.kitdude.com/boostnet)
+[进入 BoostNet 官网](https://aff.kitdude.com/boostnet?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 BoostNet 提供 Windows、macOS 和 Android 客户端，支持专线、流媒体与 AI 服务。常规套餐限制 5 台设备，从 ¥200/年每月20GB，到 ¥129/月1TB；另有 30 台设备的团队档。对第一次使用机场、希望减少手动配置的人，客户端是一个实际筛选条件。
 
@@ -313,7 +313,7 @@ BoostNet 禁止 BT、P2P、PT 和账号分享，不支持退款，也不保证�
 
 ### 15. DOVE：个人、团队与不限时流量分档
 
-[进入 DOVE 官网](https://aff.kitdude.com/dove)
+[进入 DOVE 官网](https://aff.kitdude.com/dove?utm_source=github.com%2FVPN-tuijian%2Fjichangtuijian&utm_content=article_inline)
 
 DOVE 同时提供个人月付、企业档和不限时流量包。标准档 ¥21.99/月100GB、1 台设备；高级档 ¥39.99/月300GB、2 台设备；更高档位提供 1TB 或 5TB，支持流媒体、AI、TikTok，并区分共享带宽和独享带宽。
 
